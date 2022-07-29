@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">Mortadha Naser</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone_number">+964-7700146084</string>
+    <string name="share_text">\@AndroidDev</string>
+    <string name="email">mortadha114@gmail.com</string>
+</resources>
